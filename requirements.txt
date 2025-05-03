@@ -1,0 +1,14 @@
+flask
+flask-wtf
+wtforms
+pymysql
+flask_sqlalchemy
+flask-security-too
+flask-mail
+numpy
+pandas
+scikit-learn
+tensorflow
+Pillow
+faiss-cpu
+tqdm
